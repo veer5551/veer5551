@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @veer5551
+- 👋 Hi, I’m Veer
 - 👀 I’m interested in teaching myself about How can we Teach the Machines! ;)
-- 🌱 I’m currently learning Data Science and Engineering! 
+- 🌱 I’m currently learning machine Learning, Data Science and Engineering! 
 - 📫 How to reach me ... coming soon
 
 <!---
